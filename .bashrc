@@ -124,3 +124,4 @@ export GIT_PS1_SHOWCOLORHINTS=true # Option for git-prompt.sh to show branch nam
 # Include git branch, use PROMPT_COMMAND (not PS1) to get color output (see git-prompt.sh for more)
 #export PROMPT_COMMAND='__git_ps1 "\w" "\\\$ "' # Git branch (relies on git-prompt.sh)
 
+git config credential.helper store
