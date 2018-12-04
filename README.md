@@ -5,3 +5,5 @@ This repository store some settings to setup Windows Subsystem for Linux termina
 - Fix full writeable directory background color through the `ls` command
 - Enables git aware prompt
 - Adds "start" command alias, to be compatible with regular Windows terminal
+
+![Screenshot](screenshot.gif)
