@@ -23,3 +23,5 @@
 "ColorTable09"=dword:00ce9f76
 "ColorTable10"=dword:0041e38d
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont]
+"000"="Ubuntu Mono"
