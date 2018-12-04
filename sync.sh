@@ -1,4 +1,4 @@
-rsync -Cah --progress --existing ~/ .
+rsync -CIah --progress --existing ~/ .
 git add .
 git commit -m "Update settings"
 git push origin master
