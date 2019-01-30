@@ -1,5 +1,5 @@
 # WSL-Settings
-This repository store some settings to setup a more confortable Windows Subsystem for Linux terminal:
+This repository stores some settings to setup a more comfortable Windows Subsystem for Linux terminal:
 
 - Enables Ubuntu look and feel to the terminal window with transparency
 - Fixes dark blue over black colors that are almost invisible on some displays
