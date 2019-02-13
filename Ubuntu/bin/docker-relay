@@ -2,4 +2,4 @@
 SOCKET=$HOME/sockets/docker.sock
 #remove o arquivo de socket se ele não foi devidamente excluído da última vez
 if [ -e $SOCKET ]; then rm $SOCKET; fi
-exec socat UNIX-LISTEN:$SOCKET,fork,group=docker,umask=007 EXEC:"/mnt/c/Users/Renato/go/bin/npiperelay.exe -ep -s //./pipe/docker_engine",nofork
+exec socat UNIX-LISTEN:$SOCKET,fork,group=docker,umask=007 EXEC:"$whome/go/bin/npiperelay.exe -ep -s //./pipe/docker_engine",nofork
