@@ -125,3 +125,4 @@ export GIT_PS1_SHOWDIRTYSTATE=true
 # Terminal Prompt:
 # Include git branch, use PROMPT_COMMAND (not PS1) to get color output (see git-prompt.sh for more)
 export PROMPT_COMMAND='__git_ps1 "${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]" "\n\$ "'
+source ~/.bashrc-wsl
