@@ -26,6 +26,32 @@
 "WindowSize"=dword:001a008b
 "WindowAlpha"=dword:000000e7
 
+[HKEY_CURRENT_USER\Console\C:_Program Files_WindowsApps_CanonicalGroupLimited.UbuntuonWindows_1804.2019.521.0_x64__79rhkp1fndgsc_ubuntu.exe]
+"InsertMode"=dword:00000000
+"FontSize"=dword:00120000
+"FaceName"="Ubuntu Mono"
+"ColorTable00"=dword:0024092f
+"ColorTable01"=dword:00a46534
+"ColorTable02"=dword:00199b51
+"ColorTable11"=dword:00e1e349
+"ColorTable12"=dword:002929ef
+"ColorTable13"=dword:00a87fad
+"ColorTable14"=dword:004fe9fc
+"ColorTable15"=dword:00eeeeee
+"ScreenColors"=dword:0000000f
+"PopupColors"=dword:000000f0
+"ColorTable03"=dword:00999922
+"ColorTable04"=dword:001200c8
+"ColorTable05"=dword:007a4f74
+"ColorTable06"=dword:001ea0c2
+"ColorTable07"=dword:00cfd7d3
+"ColorTable08"=dword:00535755
+"ColorTable09"=dword:00ce9f76
+"ColorTable10"=dword:0041e38d
+"ScreenBufferSize"=dword:012c008b
+"WindowSize"=dword:001a008b
+"WindowAlpha"=dword:000000e7
+
 [HKEY_CURRENT_USER\Console\%SystemRoot%_system32_bash.exe]
 "InsertMode"=dword:00000000
 "FontSize"=dword:00120000
